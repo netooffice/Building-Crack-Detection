@@ -40,4 +40,4 @@ The project uses the "Civil-Faults-Detection" dataset from Roboflow. It detects 
 Refer to the `Infrastructure_crack_detection_improved.ipynb` notebook for the full training and evaluation workflow.
 
 ## Author
-Seymur Hasanov
+Ammar Nasir
